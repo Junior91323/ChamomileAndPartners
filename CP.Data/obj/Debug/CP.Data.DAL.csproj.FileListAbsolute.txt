@@ -1,0 +1,10 @@
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\ChamomileAndPartners\CP.Data\bin\Debug\CP.Data.dll.config
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\ChamomileAndPartners\CP.Data\bin\Debug\CP.Data.dll
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\ChamomileAndPartners\CP.Data\bin\Debug\CP.Data.pdb
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\ChamomileAndPartners\CP.Data\bin\Debug\EntityFramework.dll
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\ChamomileAndPartners\CP.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\ChamomileAndPartners\CP.Data\bin\Debug\EntityFramework.xml
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\ChamomileAndPartners\CP.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\ChamomileAndPartners\CP.Data\obj\Debug\CP.Data.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\ChamomileAndPartners\CP.Data\obj\Debug\CP.Data.dll
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\ChamomileAndPartners\CP.Data\obj\Debug\CP.Data.pdb

@@ -1,0 +1,9 @@
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\ChamomileAndPartners\CP.Provider\bin\Debug\CP.Provider.dll
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\ChamomileAndPartners\CP.Provider\bin\Debug\CP.Provider.pdb
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\ChamomileAndPartners\CP.Provider\bin\Debug\CP.Data.dll
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\ChamomileAndPartners\CP.Provider\bin\Debug\CP.Types.dll
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\ChamomileAndPartners\CP.Provider\bin\Debug\CP.Data.pdb
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\ChamomileAndPartners\CP.Provider\bin\Debug\CP.Types.pdb
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\ChamomileAndPartners\CP.Provider\obj\Debug\CP.Data.Provider.csprojResolveAssemblyReference.cache
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\ChamomileAndPartners\CP.Provider\obj\Debug\CP.Provider.dll
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\ChamomileAndPartners\CP.Provider\obj\Debug\CP.Provider.pdb

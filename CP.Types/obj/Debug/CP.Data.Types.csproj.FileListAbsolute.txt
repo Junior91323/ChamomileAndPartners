@@ -1,0 +1,5 @@
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\ChamomileAndPartners\CP.Types\bin\Debug\CP.Types.dll
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\ChamomileAndPartners\CP.Types\bin\Debug\CP.Types.pdb
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\ChamomileAndPartners\CP.Types\obj\Debug\CP.Types.dll
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\ChamomileAndPartners\CP.Types\obj\Debug\CP.Types.pdb
+C:\Users\Eugene\Documents\Visual Studio 2015\Projects\ChamomileAndPartners\CP.Types\obj\Debug\CP.Data.Types.csprojResolveAssemblyReference.cache
